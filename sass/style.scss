@@ -116,6 +116,11 @@ section {
 		margin: 0 auto;
 	}	
 }
+.test {
+	display: flex;
+	flex-wrap: wrap;
+	color: $white;
+}
 
 @media (max-width: 900px) {
     .col-m-1 {width: 8.33%;}
